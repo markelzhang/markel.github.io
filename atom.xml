@@ -3,11 +3,11 @@
   <title>布丁爸爸的院子</title>
   
   <subtitle>笔记</subtitle>
-  <link href="https://markel.link/atom.xml" rel="self"/>
+  <link href="https://markelzhang.github.io/markel.github.io/atom.xml" rel="self"/>
   
-  <link href="https://markel.link/"/>
+  <link href="https://markelzhang.github.io/markel.github.io/"/>
   <updated>2021-10-29T10:48:04.576Z</updated>
-  <id>https://markel.link/</id>
+  <id>https://markelzhang.github.io/markel.github.io/</id>
   
   <author>
     <name>布丁爸爸</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://markel.link/2021/10/29/hello-world/"/>
-    <id>https://markel.link/2021/10/29/hello-world/</id>
+    <link href="https://markelzhang.github.io/markel.github.io/2021/10/29/hello-world/"/>
+    <id>https://markelzhang.github.io/markel.github.io/2021/10/29/hello-world/</id>
     <published>2021-10-29T10:48:04.576Z</published>
     <updated>2021-10-29T10:48:04.576Z</updated>
     
