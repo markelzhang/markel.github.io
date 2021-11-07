@@ -3,11 +3,11 @@
   <title>布丁爸爸的院子</title>
   
   <subtitle>笔记</subtitle>
-  <link href="https://markelzhang.github.io/markel.github.io/atom.xml" rel="self"/>
+  <link href="https://markelzhang.github.io/atom.xml" rel="self"/>
   
-  <link href="https://markelzhang.github.io/markel.github.io/"/>
+  <link href="https://markelzhang.github.io/"/>
   <updated>2021-11-07T08:02:17.512Z</updated>
-  <id>https://markelzhang.github.io/markel.github.io/</id>
+  <id>https://markelzhang.github.io/</id>
   
   <author>
     <name>布丁爸爸</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>js的二进制和大数危机</title>
-    <link href="https://markelzhang.github.io/markel.github.io/2021/11/07/js%E7%9A%84%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%92%8C%E5%A4%A7%E6%95%B0%E5%8D%B1%E6%9C%BA/"/>
-    <id>https://markelzhang.github.io/markel.github.io/2021/11/07/js%E7%9A%84%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%92%8C%E5%A4%A7%E6%95%B0%E5%8D%B1%E6%9C%BA/</id>
+    <link href="https://markelzhang.github.io/2021/11/07/js%E7%9A%84%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%92%8C%E5%A4%A7%E6%95%B0%E5%8D%B1%E6%9C%BA/"/>
+    <id>https://markelzhang.github.io/2021/11/07/js%E7%9A%84%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%92%8C%E5%A4%A7%E6%95%B0%E5%8D%B1%E6%9C%BA/</id>
     <published>2021-11-07T07:40:38.102Z</published>
     <updated>2021-11-07T08:02:17.512Z</updated>
     
@@ -33,14 +33,14 @@
     
     
     
-    <category term="技术" scheme="https://markelzhang.github.io/markel.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    <category term="技术" scheme="https://markelzhang.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-    <category term="二进制" scheme="https://markelzhang.github.io/markel.github.io/tags/%E4%BA%8C%E8%BF%9B%E5%88%B6/"/>
+    <category term="二进制" scheme="https://markelzhang.github.io/tags/%E4%BA%8C%E8%BF%9B%E5%88%B6/"/>
     
-    <category term="大数危机" scheme="https://markelzhang.github.io/markel.github.io/tags/%E5%A4%A7%E6%95%B0%E5%8D%B1%E6%9C%BA/"/>
+    <category term="大数危机" scheme="https://markelzhang.github.io/tags/%E5%A4%A7%E6%95%B0%E5%8D%B1%E6%9C%BA/"/>
     
-    <category term="精度" scheme="https://markelzhang.github.io/markel.github.io/tags/%E7%B2%BE%E5%BA%A6/"/>
+    <category term="精度" scheme="https://markelzhang.github.io/tags/%E7%B2%BE%E5%BA%A6/"/>
     
   </entry>
   

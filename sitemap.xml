@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://markelzhang.github.io/markel.github.io/2021/11/07/js%E7%9A%84%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%92%8C%E5%A4%A7%E6%95%B0%E5%8D%B1%E6%9C%BA/</loc>
+    <loc>https://markelzhang.github.io/2021/11/07/js%E7%9A%84%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%92%8C%E5%A4%A7%E6%95%B0%E5%8D%B1%E6%9C%BA/</loc>
     
     <lastmod>2021-11-07</lastmod>
     
   </url>
   
   <url>
-    <loc>https://markelzhang.github.io/markel.github.io/technologies/index.html</loc>
+    <loc>https://markelzhang.github.io/technologies/index.html</loc>
     
     <lastmod>2021-11-07</lastmod>
     
   </url>
   
   <url>
-    <loc>https://markelzhang.github.io/markel.github.io/about/index.html</loc>
+    <loc>https://markelzhang.github.io/about/index.html</loc>
     
     <lastmod>2021-11-07</lastmod>
     
   </url>
   
   <url>
-    <loc>https://markelzhang.github.io/markel.github.io/archives/index.html</loc>
+    <loc>https://markelzhang.github.io/archives/index.html</loc>
     
     <lastmod>2021-11-07</lastmod>
     
   </url>
   
   <url>
-    <loc>https://markelzhang.github.io/markel.github.io/categories/index.html</loc>
+    <loc>https://markelzhang.github.io/categories/index.html</loc>
     
     <lastmod>2021-11-07</lastmod>
     
   </url>
   
   <url>
-    <loc>https://markelzhang.github.io/markel.github.io/tags/index.html</loc>
+    <loc>https://markelzhang.github.io/tags/index.html</loc>
     
     <lastmod>2021-11-07</lastmod>
     
@@ -45,7 +45,7 @@
   
 
   <url>
-    <loc>https://markelzhang.github.io/markel.github.io</loc>
+    <loc>https://markelzhang.github.io/</loc>
     <lastmod>2021-11-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -53,21 +53,21 @@
 
   
   <url>
-    <loc>https://markelzhang.github.io/markel.github.io/tags/%E4%BA%8C%E8%BF%9B%E5%88%B6/</loc>
+    <loc>https://markelzhang.github.io/tags/%E4%BA%8C%E8%BF%9B%E5%88%B6/</loc>
     <lastmod>2021-11-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://markelzhang.github.io/markel.github.io/tags/%E5%A4%A7%E6%95%B0%E5%8D%B1%E6%9C%BA/</loc>
+    <loc>https://markelzhang.github.io/tags/%E5%A4%A7%E6%95%B0%E5%8D%B1%E6%9C%BA/</loc>
     <lastmod>2021-11-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://markelzhang.github.io/markel.github.io/tags/%E7%B2%BE%E5%BA%A6/</loc>
+    <loc>https://markelzhang.github.io/tags/%E7%B2%BE%E5%BA%A6/</loc>
     <lastmod>2021-11-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -76,7 +76,7 @@
 
   
   <url>
-    <loc>https://markelzhang.github.io/markel.github.io/categories/%E6%8A%80%E6%9C%AF/</loc>
+    <loc>https://markelzhang.github.io/categories/%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2021-11-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
