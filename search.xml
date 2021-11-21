@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>js的二进制和大数危机</title>
-    <url>/2021/11/07/js%E7%9A%84%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%92%8C%E5%A4%A7%E6%95%B0%E5%8D%B1%E6%9C%BA/</url>
-    <content><![CDATA[<center>待完成</center>]]></content>
-      <categories>
-        <category>技术文章</category>
-      </categories>
-      <tags>
-        <tag>前端</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>欢迎来到布丁爸爸的首页</title>
     <url>/2021/11/07/index/</url>
     <content><![CDATA[<center>“知而不行，只是未知” --- 阳明先生</center>]]></content>
@@ -20,6 +9,17 @@
       </categories>
       <tags>
         <tag>博客介绍</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>js的二进制和大数危机</title>
+    <url>/2021/11/07/js%E7%9A%84%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%92%8C%E5%A4%A7%E6%95%B0%E5%8D%B1%E6%9C%BA/</url>
+    <content><![CDATA[<center>待完成</center>]]></content>
+      <categories>
+        <category>技术文章</category>
+      </categories>
+      <tags>
+        <tag>前端</tag>
       </tags>
   </entry>
   <entry>
