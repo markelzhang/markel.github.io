@@ -500,7 +500,7 @@ NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
     new Valine({
       el         : '#valine-comments',
       verify     : false,
-      notify     : false,
+      notify     : true,
       appId      : 'JwK80eBsIc8K9K2mHUu3bje9-gzGzoHsz',
       appKey     : 'uCPcTLi9ljpgifHks5CJD8o0',
       placeholder: "欢迎写下你的留言",
@@ -508,7 +508,7 @@ NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
       meta       : guest,
       pageSize   : '10' || 10,
       visitor    : true,
-      lang       : 'zh-cn' || 'zh-cn',
+      lang       : 'zh-cn' || 'zh-CN',
       path       : location.pathname,
       recordIP   : false,
       serverURLs : ''
